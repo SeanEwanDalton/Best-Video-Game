@@ -1,4 +1,4 @@
 # Best-Video-Game
-Visualisation of the best video games of all time! 
+Visualisation of the best video games of all time using Sheets! 
 
 Data taken from Kaggle: https://www.kaggle.com/datasets/faisaljanjua0555/best-video-games-of-all-time?select=data.csv
