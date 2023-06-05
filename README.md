@@ -1,4 +1,5 @@
-# Best-Video-Game
+# Data Analytics - Best Video Game GSheets
+
 Visualisation of the best video games of all time using GSheets! 
 
 Steps as follows:
